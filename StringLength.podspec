@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary      = 'The length of a NSString.'
   s.homepage     = 'https://github.com/niuzai327/StringLength'
   s.license      = 'MIT'
-  s.author       = { "于新亚" => "yuxinya@meituan.com" }
+  s.author       = { "YXY" => "1064136787@qq.com" }
   s.platform     = :ios
   s.requires_arc = true
   s.source_files = 'StringLength/*'
